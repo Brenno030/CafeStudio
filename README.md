@@ -1,2 +1,2 @@
 # ProgWeb
-Repositório feito para a Disciplina de Programação Web 
+Repositório criado para o projeto final (CafeStudio) da disciplina de Programação Web 
